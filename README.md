@@ -1,6 +1,10 @@
 # StudentManageSystem
 Front-End: HTML/CSS/JS/EasyUI/AJAX; Back-End: Java/Servlet/Tomcat/XML/JSON/JDBC/dbUtils/MVC 
 
+### XMind Map
+![xmind](./demoPic/sysMindMap.png)
+
+
 ### Before You Use:
 1. SQL password:
 username=root
