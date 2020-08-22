@@ -33,6 +33,13 @@ mystudentsys
 	- Edit Grade
 	- Delete Grade
 
+![ListGrade](./demoPic/Snipaste_2020-08-22_01-15-02.png)
+![SearchGrade](./demoPic/Snipaste_2020-08-22_01-16-55.png)
+![AddGrade](./demoPic/Snipaste_2020-08-22_01-15-56.png)
+![EditGrade](./demoPic/Snipaste_2020-08-22_01-16-41.png)
+![DelGrade](./demoPic/Snipaste_2020-08-22_01-17-21.png)
+
+
 3. Student CRUD System
 - Student System is based on the data in db_student
 - five situations:
@@ -41,6 +48,14 @@ mystudentsys
 	- Add Student
 	- Edit Student
 	- Delete Student
+
+
+![SearchGrade](./demoPic/Snipaste_2020-08-22_01-18-49.png)
+![AddGrade](./demoPic/Snipaste_2020-08-22_01-17-37.png)
+![EditGrade](./demoPic/Snipaste_2020-08-22_01-17-50.png)
+![DelGrade](./demoPic/Snipaste_2020-08-22_01-18-11.png)
+
+
 
 ### Last
 Thank you for your watching.
